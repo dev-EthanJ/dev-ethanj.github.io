@@ -1,5 +1,5 @@
 ---
-categories: [insights, courses, 2026]
+categories: [insights, courses, "2026"]
 date: 2026-02-25
 tags:
 - 프롬프트설계
